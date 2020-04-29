@@ -20,7 +20,7 @@ $ python3 pv.py pos.dat --save
   - numpy
 - ImageMagick
 
-## pos.dat format
+## Dat file format
 See http://www.photon.t.u-tokyo.ac.jp/~maruyama/pvwin/making.html
 
 ## Tips
